@@ -2,9 +2,11 @@
 
 # Finding Tiny Faces
 
-On going...
+on going...
 
-## Introduction
+### Pretrained weights
+
+This is an intermediate pretrained weights which train by myself. [BaiduYun](https://pan.baidu.com/s/1pLHXE1l)
 
 ### Citing
 

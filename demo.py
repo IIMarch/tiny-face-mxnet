@@ -82,4 +82,4 @@ if __name__ == '__main__':
     predictor = Predictor()
     for i in range(10):
         random.seed(i)
-        predictor.forward('/data2/obj_detect/tiny/data/demo/selfie.jpg', i)
+        predictor.forward('./demo/selfie.jpg', i)
