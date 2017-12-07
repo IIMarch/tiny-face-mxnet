@@ -1,4 +1,4 @@
-![Demo result](demo.jpg)
+![Demo result](demo/demo.jpg)
 
 # Finding Tiny Faces
 
