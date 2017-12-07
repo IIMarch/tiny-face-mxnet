@@ -4,6 +4,14 @@
 
 on going...
 
+### Have a try
+
+Install offical MXNet 0.11.0. Download the pretrained weight and run
+
+```
+python demo.py
+```
+
 ### Pretrained weights
 
 This is an intermediate pretrained weights which train by myself. [BaiduYun](https://pan.baidu.com/s/1pLHXE1l)
