@@ -14,7 +14,7 @@ python demo.py
 
 ### Pretrained weights
 
-This is an intermediate pretrained weights which trained by myself. [BaiduYun](https://pan.baidu.com/s/1pLHXE1l)
+This is an intermediate pretrained weight which trained by myself. [BaiduYun](https://pan.baidu.com/s/1pLHXE1l)
 
 ### Citing
 
