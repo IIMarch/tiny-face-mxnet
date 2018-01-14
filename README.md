@@ -2,7 +2,7 @@
 
 # Finding Tiny Faces
 
-on going... I am going to open source the training code in this weekend.
+Updating Train Scripts...
 
 ### Have a try
 
