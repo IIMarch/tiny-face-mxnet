@@ -2,7 +2,7 @@
 
 # Finding Tiny Faces
 
-Updating Train Scripts...
+Finished coding.
 
 ### Have a try
 
