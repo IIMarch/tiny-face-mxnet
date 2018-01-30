@@ -484,7 +484,7 @@ class RoidbIter:
             else:
                 labels[:] = 0
 
-            ''' comment for softmax loss
+            ''' uncomment for softmax loss
             num_fg = int(256 * 0.5)
             fg_inds = np.where(labels == 1)[0]
 
